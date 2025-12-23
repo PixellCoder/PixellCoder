@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=System.out.println(%22Hello+World!%22)%3B;Hello%2C+I+am+Pixel+Coder;Executing+Creative+Scripts...;Initializing+Mainframe..." />
+</h1>
 
-<!--
-**PixellCoder/PixellCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Music-8A2BE2?style=for-the-badge&logo=applemusic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0055?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend_Dev-00E5FF?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tech_Enthusiast-FFD500?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">⚡ Arsenal & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,cpp,git,linux,kali,vscode,figma&theme=dark" />
+</p>
+
+---
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pixellcoder&style=flat-square&color=blueviolet" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pixellcoder?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/pixellcoder?style=for-the-badge" />
+</p>
+
+
+
+
+<h2 align="center">🌐 Connect to the Mainframe</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/@Luna_Beats1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/PixellCoder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>“Your code is your canvas — paint the future.”</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PixellCoder&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
