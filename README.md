@@ -19,10 +19,10 @@
 
 ---
 
-<h2 align="center">📊 Stats</h2>
+<<h2 align="center">📊 Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats-godkingks-projects.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
 </p>
 
 <hr>
@@ -30,7 +30,7 @@
 <h2 align="center">🧠 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats-godkingks-projects.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox" />
 </p>
 
 <hr>
@@ -40,6 +40,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox" />
 </p>
+
 
 
 ---
