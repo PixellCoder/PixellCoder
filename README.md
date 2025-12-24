@@ -19,9 +19,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&title_color=009dff&bg_color=00ff11&locale=en" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
 
 ---
 
