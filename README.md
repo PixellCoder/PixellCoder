@@ -21,27 +21,20 @@
 
 <h2 align="center">📊 Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pixellcoder&label=Profile%20views&color=00ffcc&style=plastic" alt="pixellcoder" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixellcoder" alt="pixellcoder" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixellcoder&show_icons=true&bg_color=00ffee&locale=en&layout=compact" alt="pixellcoder" /></p>
 
-<h2 align="center">🧠 Top Languages</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixellcoder&show_icons=true&title_color=009dff&bg_color=00ff11&locale=en" alt="pixellcoder" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox" />
-</p>
-
-<hr>
-
-<h2 align="center">🔥 Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox" />
-</p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixellcoder&theme=dark" alt="pixellcoder" /></p>
 
 ---
 
