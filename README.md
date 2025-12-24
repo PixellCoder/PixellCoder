@@ -1,4 +1,4 @@
-<img width="1154" height="634" alt="image" src="https://github.com/user-attachments/assets/9838c33b-61a5-4fb5-919f-72d1d3a5b9b6" /><h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=System.out.println(%22Hello+World!%22)%3B;Hello%2C+I+am+Pixel+Coder;Executing+Creative+Scripts...;Initializing+Mainframe..." />
 </h1>
 
@@ -19,7 +19,7 @@
 
 ---
 
-<<h2 align="center">📊 Stats</h2>
+<h2 align="center">📊 Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-godkingks-projects.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
@@ -40,8 +40,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox" />
 </p>
-
-
 
 ---
 
