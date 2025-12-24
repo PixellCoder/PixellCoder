@@ -19,9 +19,16 @@
 
 ---
 
-### 📊 Stats
-
+### 📊 Stats  
 ![PixellCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox)
+
+### 🧠 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox)
+
+### 🔥 Activity  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox)
+
+
 
 <!-- Optional Streaks -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=PixellCoder&theme=gruvbox&border_radius=4.5) -->
