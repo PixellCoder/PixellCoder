@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="1154" height="634" alt="image" src="https://github.com/user-attachments/assets/9838c33b-61a5-4fb5-919f-72d1d3a5b9b6" /><h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=System.out.println(%22Hello+World!%22)%3B;Hello%2C+I+am+Pixel+Coder;Executing+Creative+Scripts...;Initializing+Mainframe..." />
 </h1>
 
@@ -19,19 +19,30 @@
 
 ---
 
-### 📊 Stats  
-![PixellCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox)
+### 📊 Stats
+<div align="center">
 
-### 🧠 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox)
+<img src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
 
-### 🔥 Activity  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox)
+</div>
 
+---
 
+### 🧠 Top Languages
+<div align="center">
 
-<!-- Optional Streaks -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=PixellCoder&theme=gruvbox&border_radius=4.5) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox" />
+
+</div>
+
+---
+
+### 🔥 Activity
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox" />
+
+</div>
 
 
 ---
