@@ -19,7 +19,10 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixellcoder&show_icons=true&title_color=009dff&bg_color=00ff11&locale=en" alt="pixellcoder" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&title_color=009dff&bg_color=00ff11&locale=en" />
+</p>
+
 ---
 
 <h2 align="center">🌐 Connect to the Mainframe</h2>
