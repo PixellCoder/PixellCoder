@@ -19,46 +19,12 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📊 Stats
 
-<div align="center">
+![PixellCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" width="480" />
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420">
-
-  <table>
-    <tr>
-      <td align="left">
-
-        <p>⭐ <b>Total Stars:</b><br>
-        <img src="https://img.shields.io/github/stars/PixellCoder?color=yellow&style=flat-square"></p>
-
-        <p>🕒 <b>Commits (2025):</b><br>
-        <img src="https://img.shields.io/badge/85-blueviolet?style=flat-square"></p>
-
-        <p>🔧 <b>Total PRs:</b><br>
-        <img src="https://img.shields.io/badge/6-00e5ff?style=flat-square"></p>
-
-        <p>🐛 <b>Total Issues:</b><br>
-        <img src="https://img.shields.io/badge/2-ff0055?style=flat-square"></p>
-
-        <p>📡 <b>Contributions (last year):</b><br>
-        <img src="https://img.shields.io/badge/0-gray?style=flat-square"></p>
-
-      </td>
-
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/GRADE-B-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" width="150">
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420">
-
-</div>
+<!-- Optional Streaks -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=PixellCoder&theme=gruvbox&border_radius=4.5) -->
 
 
 ---
