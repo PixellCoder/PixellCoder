@@ -30,11 +30,11 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixellcoder&show_icons=true&bg_color=00ffee&locale=en&layout=compact" alt="pixellcoder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PixellCoder&show_icons=true&bg_color=00ffee&locale=en&layout=compact" alt="PixellCoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixellcoder&show_icons=true&title_color=009dff&bg_color=00ff11&locale=en" alt="pixellcoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&title_color=009dff&bg_color=00ff11&locale=en" alt="PixellCoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixellcoder&theme=dark" alt="pixellcoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PixellCoder&theme=dark" alt="PixellCoder" /></p>
 
 ---
 
