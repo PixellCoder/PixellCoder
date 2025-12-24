@@ -19,30 +19,27 @@
 
 ---
 
-### 📊 Stats
-<div align="center">
+<h2 align="center">📊 Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
+</p>
 
-</div>
+<hr>
 
----
+<h2 align="center">🧠 Top Languages</h2>
 
-### 🧠 Top Languages
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox" />
+<hr>
 
-</div>
+<h2 align="center">🔥 Activity</h2>
 
----
-
-### 🔥 Activity
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox" />
+</p>
 
 
 ---
