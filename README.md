@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,cpp,git,linux,kali,vscode,figma&theme=dark" />
 </p>
----
+
 
 <h2 align="center">🌐 Connect to the Mainframe</h2>
 
