@@ -19,23 +19,7 @@
 
 ---
 
-<h2 align="center">📊 Stats</h2>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pixellcoder&label=Profile%20views&color=00ffcc&style=plastic" alt="pixellcoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixellcoder" alt="pixellcoder" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PixellCoder&show_icons=true&bg_color=00ffee&locale=en&layout=compact" alt="PixellCoder" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&title_color=009dff&bg_color=00ff11&locale=en" alt="PixellCoder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PixellCoder&theme=dark" alt="PixellCoder" /></p>
-
+### 📊 Stats ![Pixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixellcoder&show_icons=true&theme=gruvbox) <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=PixellCoder&theme=gruvbox&border_radius=4.5) -->
 ---
 
 <h2 align="center">🌐 Connect to the Mainframe</h2>
