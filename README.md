@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 Stats ![Pixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixellcoder&show_icons=true&theme=gruvbox) <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=PixellCoder&theme=gruvbox&border_radius=4.5) -->
+### 📊 Stats ![Pixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixellcoder&show_icons=true&theme=gruvbox) <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=pixellcoder&theme=gruvbox&border_radius=4.5) -->
 ---
 
 <h2 align="center">🌐 Connect to the Mainframe</h2>
