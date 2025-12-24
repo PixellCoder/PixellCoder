@@ -22,7 +22,7 @@
 <h2 align="center">📊 Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=PixelReaperYT&show_icons=true&theme=gruvbox" />
 </p>
 
 <hr>
@@ -30,7 +30,7 @@
 <h2 align="center">🧠 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PixellCoder&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PixelReaperYT&layout=compact&theme=gruvbox" />
 </p>
 
 <hr>
@@ -38,7 +38,7 @@
 <h2 align="center">🔥 Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PixellCoder&theme=gruvbox" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PixelReaperYT&theme=gruvbox" />
 </p>
 
 
