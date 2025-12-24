@@ -19,14 +19,39 @@
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pixellcoder&style=flat-square&color=blueviolet" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pixellcoder?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/pixellcoder?style=for-the-badge" />
-</p>
+  <!-- Neon Metric Card (Custom Styled Like Forrest Knight) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PixellCoder&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" width="480" />
+
+  <br/><br/>
+
+  <!-- Custom Stats Box -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420">
+
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td align="left">
+
+        <p>⭐ <b>Total Stars:</b> <img src="https://img.shields.io/github/stars/PixellCoder?color=yellow&style=flat-square" /></p>
+        <p>📦 <b>Commits (2025):</b> <img src="https://img.shields.io/badge/85-blueviolet?style=flat-square" /></p>
+        <p>🔧 <b>Total PRs:</b> <img src="https://img.shields.io/badge/6-00e5ff?style=flat-square" /></p>
+        <p>🐛 <b>Total Issues:</b> <img src="https://img.shields.io/badge/2-ff0055?style=flat-square" /></p>
+        <p>📡 <b>Contributions (last year):</b> <img src="https://img.shields.io/badge/0-gray?style=flat-square" /></p>
+
+      </td>
+
+      <td align="center" width="200">
+        <!-- Circular Grade Badge (Better Than Forrest's 😎) -->
+        <img src="https://img.shields.io/badge/GRADE-B-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" width="150">
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420">
+
+</div>
+
 
 
 
