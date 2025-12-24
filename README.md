@@ -19,7 +19,10 @@
 
 ---
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
+<p align="center">
+  <img src="https://readme-stats-fra.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
+</p>
+
 
 ---
 
