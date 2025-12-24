@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Tech_Enthusiast-FFD500?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </p>
 
---- 
+---
+
 <h2 align="center">⚡ Arsenal & Tools</h2>
 
 <p align="center">
@@ -17,6 +18,7 @@
 </p>
 
 ---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -25,33 +27,25 @@
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420" />
 
   <table>
     <tr>
       <td align="left">
 
-        ⭐ <b>Total Stars:</b>  
-        <img src="https://img.shields.io/github/stars/PixellCoder?color=yellow&style=flat-square" />
+        ⭐ <b>Total Stars:</b><br/>
+        <img src="https://img.shields.io/github/stars/PixellCoder?color=yellow&style=flat-square" /><br/><br/>
 
-        <br/>
+        🕒 <b>Commits (2025):</b><br/>
+        <img src="https://img.shields.io/badge/85-blueviolet?style=flat-square" /><br/><br/>
 
-        🕒 <b>Commits (2025):</b>  
-        <img src="https://img.shields.io/badge/85-blueviolet?style=flat-square" />
+        🔧 <b>Total PRs:</b><br/>
+        <img src="https://img.shields.io/badge/6-00e5ff?style=flat-square" /><br/><br/>
 
-        <br/>
+        🐛 <b>Total Issues:</b><br/>
+        <img src="https://img.shields.io/badge/2-ff0055?style=flat-square" /><br/><br/>
 
-        🔧 <b>Total PRs:</b>  
-        <img src="https://img.shields.io/badge/6-00e5ff?style=flat-square" />
-
-        <br/>
-
-        🐛 <b>Total Issues:</b>  
-        <img src="https://img.shields.io/badge/2-ff0055?style=flat-square" />
-
-        <br/>
-
-        📡 <b>Contributions (last year):</b>  
+        📡 <b>Contributions (last year):</b><br/>
         <img src="https://img.shields.io/badge/0-gray?style=flat-square" />
 
       </td>
@@ -62,18 +56,11 @@
     </tr>
   </table>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420" />
 
 </div>
 
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2" width="420">
-
-</div>
-
-
-
-
+---
 
 <h2 align="center">🌐 Connect to the Mainframe</h2>
 
@@ -93,5 +80,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PixellCoder&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PixellCoder&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" />
 </p>
