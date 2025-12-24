@@ -16,14 +16,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,cpp,git,linux,kali,vscode,figma&theme=dark" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-stats-fra.vercel.app/api?username=PixellCoder&show_icons=true&theme=gruvbox" />
-</p>
-
-
 ---
 
 <h2 align="center">🌐 Connect to the Mainframe</h2>
